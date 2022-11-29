@@ -1,6 +1,6 @@
 ---
 title: my obsidian workflow
-tags: 
+tags: test1 test2
 category: systems
 share: true
 ---
