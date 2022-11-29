@@ -2,7 +2,7 @@
 title: Procrastination through process
 tags: 
 category: systems
-share: false
+share: true
 ---
 
 I've found that I'm very good at procrastination under the guise of productivity. Usually this starts with wanting to do a relatively simple thing, and ends up with taking a deep dive into finding just the right tool or process to really optimise it. Going down this rabbit hole /feels/ productive, but often it's not really proportionate to the actual thing I want to do, and enables me to just put it off longer.
