@@ -1,16 +1,9 @@
 ---
 title: This is another test
-tags:
-  - development
-  - design
-  - digital gardening
-  - test
-  - digital
-  - gardening
+tags: ["development", "design", "digital gardening"]
 category: design
 share: true
 ---
-
 
 I recently left a job that I was really enjoying for an opportunity that came up at another company. I wasn’t _not_ looking, but I also didn’t really expect to leave until the more I thought about the idea the more I liked it. I’m in a very privileged position to be in a field which currently has a bit of demand at a senior level, so this was the first time I had the luxury of being able to be picky knowing that I’d continue to be happy at my old job if nothing came up.
 
