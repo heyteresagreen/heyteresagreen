@@ -1,4 +1,4 @@
-I"¦<h1 id="hi-there">Hi there!</h1>
+I"¯<h1 id="hi-there">Hi there!</h1>
 
 <p>I just found out about <a href="https://maggieappleton.com/garden-history">digital gardening</a>, and wanted to try it out. Letâ€™s see how this goes?</p>
 
@@ -11,15 +11,15 @@
     </li>
   
     <li>
-      <a href="/lorem-ipsum" class="internal-link">This is another test</a>
-    </li>
-  
-    <li>
       <a href="/procrastination-through-process" class="internal-link">Procrastination through process</a>
     </li>
   
     <li>
       <a href="/start-here" class="internal-link">Start here</a>
+    </li>
+  
+    <li>
+      <a href="/my-obsidian-workflow" class="internal-link">my obsidian workflow</a>
     </li>
   
 </ul>

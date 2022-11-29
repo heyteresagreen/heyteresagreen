@@ -1,9 +1,7 @@
-I"�<p>This site is a little experiment into writing, Indieweb and digital gardening.</p>
+I"6<p>This site is a little experiment into writing, Indieweb and digital gardening.</p>
 
 <h2 id="just-the-facts">Just the facts</h2>
-<p>This site is made with Jekyll, specifically the <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden theme</a> (with some slight adjustments).
-It’s published with GitHub and Netlify, don’t ask me how it all works.
-Fonts are Hoefler Text + Helvetica Neue if you have them installed, Georgia and Arial if you don’t (sorry).</p>
+<p>This site is made with Jekyll, specifically the <a href="https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll">Jekyll digital garden theme</a> (with some slight adjustments). It’s published with GitHub and Netlify, don’t ask me how it all works. Fonts are Georgia + Helvetica Neue (if you have it installed, Arial if you don’t). I write notes in <a href="https://obsidian.md/">Obsidian</a> and use <a href="https://github.com/ObsidianPublisher/obsidian-github-publisher">this plugin</a> to publish to my Github.</p>
 
 <h2 id="done-so-far">Done so far</h2>
 <ul>
@@ -19,7 +17,6 @@ Fonts are Hoefler Text + Helvetica Neue if you have them installed, Georgia and 
 
 <h2 id="to-do">To do</h2>
 <ul>
-  <li></li>
   <li>Figure out tags, maybe using <a href="https://uhded.com/automatic-jekyll-categories-page">this plugin method</a></li>
   <li>Disable link previews</li>
 </ul>
