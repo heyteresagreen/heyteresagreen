@@ -18,12 +18,6 @@ layout: default
       {% endfor %}
     </small>
     {% endif %}
-
-    {% for tag in site.tags %}
-    {% if page.tags contains page.name or page.name == page.tags %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
-    {% endif %}
-{% endfor %}
  
   </div>
 

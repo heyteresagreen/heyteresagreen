@@ -1,7 +1,6 @@
 ---
 title: Procrastination through process
-tags: test3
-category: systems
+tags: systems
 share: true
 ---
 

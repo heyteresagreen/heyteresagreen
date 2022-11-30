@@ -1,4 +1,4 @@
-I"¯<h1 id="hi-there">Hi there!</h1>
+I"£<h1 id="hi-there">Hi there!</h1>
 
 <p>I just found out about <a href="https://maggieappleton.com/garden-history">digital gardening</a>, and wanted to try it out. Letâ€™s see how this goes?</p>
 
@@ -24,4 +24,21 @@
   
 </ul>
 
+<p>Tags</p>
+
+<h3>test3</h3>
+<ul>
+    
+      <li><a href="/systems/2022/11/30/test/" class="internal-link">Test post</a></li>
+    
+  </ul>
+
+<p>Posts</p>
+<ul>
+  
+    <li>
+      <a href="/systems/2022/11/30/test/">Test post</a>
+    </li>
+  
+</ul>
 :ET

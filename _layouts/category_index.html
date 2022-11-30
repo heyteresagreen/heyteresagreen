@@ -11,7 +11,7 @@ layout: default
 </section>
 <section class="blog">
   <div class="container">
-    {% for note in site.notes %} {% if note.categories contains note.category %}
+    {% for note in site.notes %} {% if note.categories contains page.category %}
 
     <div class="blog-container">
       <div class="title-excerpt">

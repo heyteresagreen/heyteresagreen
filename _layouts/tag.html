@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% assign tags =  site.notes | map: 'tags' | uniq %}
+  <ul>
+  {% for note in site.notes %}
+    {% if note.tags contains page.title %}
+    <li><a href="{{ site.baseurl }}{{ note.url }}" class="internal-link">{{ note.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Tags
+---
+
+<content>
+    <h1>
+      All tags
+    </h1>
+      {% assign tags =  site.notes | map: 'tags' | uniq %}
+      
+      {% for tag in tags %}
+      <ul class="taglist">
+        {% for inner in tag%} {% if forloop.first == true %}
+        <li>
+          <a href="/tags/{{tag}}" class="internal-link">{{tag}}</a></li
+        >
+        {% endif %} {% endfor %}
+        </ul>
+      {% endfor %}
+</content>

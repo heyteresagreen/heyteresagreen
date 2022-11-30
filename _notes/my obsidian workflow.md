@@ -1,8 +1,7 @@
 ---
 title: my obsidian workflow
-tags: test1 test2
-category: systems
-share: true
+tags: systems
+share: false
 ---
 
 It almost works!

@@ -1,7 +1,6 @@
 ---
 title: About this site
 tags: ["design"]
-category: test
 share: true
 ---
 

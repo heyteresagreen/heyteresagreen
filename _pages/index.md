@@ -19,7 +19,7 @@ Here's a list of notes so far:
   {% endfor %}
 </ul>
 
-
+Tags
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -28,3 +28,12 @@ Here's a list of notes so far:
     {% endfor %}
   </ul>
 {% endfor %}
+
+Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
