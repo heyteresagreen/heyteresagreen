@@ -18,22 +18,3 @@ Here's a list of notes so far:
     </li>
   {% endfor %}
 </ul>
-
-Tags
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for note in tag[1] %}
-      <li><a href="{{ note.url }}"  class="internal-link">{{ note.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
