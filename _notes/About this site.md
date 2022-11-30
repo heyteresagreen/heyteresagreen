@@ -18,7 +18,9 @@ This site is made with Jekyll, specifically the [Jekyll digital garden theme](ht
 * Put a logo in the header
 * Start here note
 * Figure out a good workflow that can be done via iPad, via Obsidian + [this plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher))
+* Figure out tags (sort of - I do have to create the tag pages manually)
 
 ## To do
-* Figure out tags, maybe using [this plugin method](https://uhded.com/automatic-jekyll-categories-page)
+* Fix :active styling for links
+* Style and link note tags to tag index pages
 * Disable link previews
