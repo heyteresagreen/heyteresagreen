@@ -4,7 +4,7 @@ tags: ["design"]
 share: true
 ---
 
-This site is a little experiment into writing, Indieweb and digital gardening. 
+This site is a little experiment into writing, Indieweb and digital gardening. You might want to [[Start here]].
 
 ## Just the facts
 This site is made with Jekyll, specifically the [Jekyll digital garden theme](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) (with some slight adjustments). It's published with GitHub and Netlify, don't ask me how it all works. Fonts are Georgia + Helvetica Neue (if you have it installed, Arial if you don't). I write notes in [Obsidian](https://obsidian.md/) and use [this plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher) to publish to my Github.
