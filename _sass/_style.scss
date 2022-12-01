@@ -97,13 +97,15 @@ h6 {
  }
 
 a {
-  transition: background 300ms;
-  padding: 0 0.1em;
-  color: $color-primary;
+  transition: 300ms;
+  color: $color-secondary;
+  text-decoration: none;
+  border-bottom: 1px solid $color-secondary;
   &:hover {
-    color: white !important;
-    background-color: $highlight;
+    color: white;
+    background-color: $color-secondary;
     text-decoration: none;
+    border-bottom: 0;
   }
   &:after {
     position: relative;
@@ -183,4 +185,19 @@ side {
 
 #logo {
   width: 120px;
+  margin-top: 1rem;
+}
+
+.tag a {
+  background: saturate(darken($color-background,10%),20%) ;
+  border-bottom: 0;
+  padding: 4px 6px;
+  font-family: $font-family-sans-serif;
+  margin-right: 2px;
+  color: saturate(darken($color-background,70%),10%) ;
+  font-size: 0.9rem;
+    &:hover {
+    color: white;
+    background-color: $highlight;
+  }
 }

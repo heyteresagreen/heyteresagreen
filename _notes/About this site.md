@@ -1,6 +1,6 @@
 ---
 title: About this site
-tags: ["design"]
+tags: design systems
 share: true
 ---
 
@@ -19,8 +19,10 @@ This site is made with Jekyll, specifically the [Jekyll digital garden theme](ht
 * Start here note
 * Figure out a good workflow that can be done via iPad, via Obsidian + [this plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher))
 * Figure out tags (sort of - I do have to create the tag pages manually)
-
-## To do
 * Fix :active styling for links
 * Style and link note tags to tag index pages
-* Disable link previews
+
+## To do
+
+* Add a "Now" page
+* Actually write stuff
