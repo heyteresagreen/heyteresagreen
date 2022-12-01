@@ -1,6 +1,6 @@
 ---
 title: About this site
-tags: design systems
+tags: design
 share: true
 ---
 
@@ -21,8 +21,7 @@ This site is made with Jekyll, specifically the [Jekyll digital garden theme](ht
 * Figure out tags (sort of - I do have to create the tag pages manually)
 * Fix :active styling for links
 * Style and link note tags to tag index pages
+* Add a "Now" page
 
 ## To do
-
-* Add a "Now" page
 * Actually write stuff
