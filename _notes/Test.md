@@ -1,6 +1,5 @@
-
 ---
-title: test
+title: Mag
 tags: 
 category: 
 share: true
