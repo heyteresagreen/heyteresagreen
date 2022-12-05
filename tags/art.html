@@ -1,0 +1,18 @@
+---
+title: art
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+Here are some things I've painted.
+
+
+{% assign tags =  site.notes | map: 'tags' | uniq %}
+  <ul class="two-col gallery">
+  {% for note in site.notes %}
+    {% if note.tags contains page.title %}
+    <li><a href="{{ site.baseurl }}{{ note.url }}" class="internal-link"><img src="{{ site.baseurl }}/{{ note.image }}" alt="{{ note.title }}"></a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>

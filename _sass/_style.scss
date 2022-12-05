@@ -204,3 +204,19 @@ side {
     background-color: $highlight;
   }
 }
+
+.gallery {
+  list-style-type: none;
+  padding-left: 0;
+  li {
+    margin: 0;
+  }
+}
+
+.two-col li {
+  
+  @media (min-width: 820px) {
+    width: 50%;
+  // float: left;
+  }
+}
