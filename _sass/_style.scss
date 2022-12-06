@@ -36,6 +36,7 @@ footer {
   color: mix($color-text, white, 80%);
   padding-top: 1em;
   font-family: $font-family-sans-serif;
+  clear: both;
   p {
     max-width: 24em;
   }
@@ -211,12 +212,17 @@ side {
   li {
     margin: 0;
   }
+  a:hover img {
+    outline: 2px solid $color-secondary;
+    transition: outline 0.2s;
+  }
 }
 
 .two-col li {
   
-  @media (min-width: 820px) {
-    width: 50%;
-  // float: left;
+  @media (min-width: 720px) {
+    width: 49%;
+    float: left;
+    padding-right: 1%;
   }
 }

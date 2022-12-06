@@ -1,6 +1,6 @@
 ---
 title: Mr Roo
-tags: art design
+tags: art
 share: true
 image: assets/roo.jpeg
 ---
