@@ -1,9 +1,12 @@
 ---
 title: Mr Roo
-tags: art
+tags:
+  - art
+  - hollywood
 share: true
 image: assets/roo.jpeg
 ---
+
 
 ![painting of a kangaroo with bright pinks and purples](assets/roo.jpeg)
 
