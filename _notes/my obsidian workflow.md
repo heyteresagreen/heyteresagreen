@@ -27,4 +27,4 @@ The solution I've found is [Obsidian](https://obsidian.md/), a note-taking app t
 4. Change to "share: true" in the frontmatter.
 5. Use a hotkey command to run the [Obsidian Github Publisher plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher), which will look for any new or edited notes with  "share: true" and send them off to Github.
 
-There's a few quirks and it did take me some time to get it to this state, but in the end it's pretty much what I was after. I imagine this will be an evolving situation.
+There's a few quirks and it did take me some time to get it to this state, but in the end it's pretty much what I was after. I imagine this will be an evolving situation...
