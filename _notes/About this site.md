@@ -1,6 +1,6 @@
 ---
 title: About this site
-tags: design
+tags: ["design"]
 share: true
 ---
 

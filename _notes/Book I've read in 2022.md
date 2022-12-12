@@ -5,7 +5,7 @@ share: true
 ---
 
 1. Teresa Torres (2021), Continuous Discovery Habits (in progress)
-2. Aldous Huxley, Brave New World (in progress)
+2. Aldous Huxley, Brave New World
 3. Annie Raser-Rowland, Adam Grubb (2016) The Art of Frugal Hedonism
 4. Oliver Burkeman (2021), Four Thousand Hours (ebook)
 5. Tom Greever (2021), Articulating Design Decisions

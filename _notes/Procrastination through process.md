@@ -1,6 +1,6 @@
 ---
 title: Procrastination through process
-tags: systems
+tags: ["systems"]
 share: true
 ---
 
