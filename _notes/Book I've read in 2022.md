@@ -1,8 +1,10 @@
 ---
 title: Book I've read in 2022
-tags: ["reading"]
+tags:
+  - reading
 share: true
 ---
+
 
 1. Teresa Torres (2021), Continuous Discovery Habits (in progress)
 2. Aldous Huxley, Brave New World
