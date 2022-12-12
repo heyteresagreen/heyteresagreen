@@ -1,8 +1,10 @@
 ---
 title: About this site
-tags: design
+tags:
+  - design
 share: true
 ---
+
 
 This site is a little experiment into writing, Indieweb and digital gardening. You might want to [[Start here]].
 
